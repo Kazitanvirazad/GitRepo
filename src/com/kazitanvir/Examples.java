@@ -8,4 +8,8 @@ public class Examples {
 
 	}
 
+	public static void print() {
+
+	}
+
 }
