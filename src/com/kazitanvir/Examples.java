@@ -15,6 +15,10 @@ public class Examples {
 
 	}
 
+	public void example() {
+		System.out.println("Kazi tanvir is a good human.");
+	}
+
 	public static void pattern() {
 		int n = 5;
 		for (int i = 1; i <= n; i++) {
